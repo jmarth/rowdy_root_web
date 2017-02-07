@@ -1,3 +1,6 @@
+Demo
+[![demo](http://i.imgur.com/pRBINo9.png)](http://streamable.com/tb7dk)
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
