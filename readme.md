@@ -2,7 +2,7 @@ Electronic Medical Records System
 
 Electronic record keeping system for clinics and hospitals. Designated for third-word countries. Maintains a database of patients consisting of demographics, health history, physical examinations, vitals, surgical procedures, and documentation.
 
-Quick Demo
+Quick Video Demo
 [![demo](http://i.imgur.com/pRBINo9.png)](http://streamable.com/tb7dk)
 
 # Laravel PHP Framework
